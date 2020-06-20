@@ -1,4 +1,4 @@
-package net.xaviersala.PorterDiscoteca;
+package net.xaviersala.porterdediscoteca;
 
 import static org.junit.Assert.assertTrue;
 
